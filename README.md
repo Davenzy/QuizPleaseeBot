@@ -1,4 +1,4 @@
-This bot was created as a Pet project to learn new skills in asynchronous programming and using the aiogram library, designed for creating chatbots in Telegram.
+This bot was created as a pet project to learn new skills in asynchronous programming and using the aiogram library, designed for creating chatbots in Telegram.
 
 # Commands available to the bot
 - /start - the command is needed to start working with the bot
