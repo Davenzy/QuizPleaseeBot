@@ -1,5 +1,9 @@
 This bot was created as a pet project to learn new skills in asynchronous programming and using the aiogram library, designed for creating chatbots in Telegram.
 
+Quiz Please bot link: [@quizpeasee_bot](https://t.me/quizpeasee_bot "Quiz Please")
+
+
+
 # Commands available to the bot
 - /start - the command is needed to start working with the bot
 - Начать игру - the button is intended for playing a quiz inside the chat room.
