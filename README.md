@@ -8,5 +8,3 @@ Quiz Please bot link: [@quizpleasee_bot](https://t.me/quizpleasee_bot "Quiz Plea
 - /start - the command is needed to start working with the bot
 - Начать игру - the button is intended for playing a quiz inside the chat room.
 - Показать последний результат - will display your last result of the game in the quiz.
-
-Translated with DeepL.com (free version)
